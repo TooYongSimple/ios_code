@@ -1,0 +1,11 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "a91125474eff43c451ffabf1930d145f"
+build_time: [537595986, 126120000]
+inputs:
+  "/Users/zhangjianyun/Documents/swiftCode/Base/ViewController/XCFBaseViewController.swift": [535452636, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Controller/TabbarController/XCFTabBarViewController.swift": [535454470, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Controller/Client/Controller/XCFClassViewController.swift": [535455408, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Controller/Goods/Controller/XCFGoodsViewController.swift": [535454464, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/swiftCode/AppDelegate.swift": [535448234, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Controller/Me/Controller/XCFMineViewController.swift": [535454464, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Controller/Home/Controller/XCFHomeViewController.swift": [535454464, 0]

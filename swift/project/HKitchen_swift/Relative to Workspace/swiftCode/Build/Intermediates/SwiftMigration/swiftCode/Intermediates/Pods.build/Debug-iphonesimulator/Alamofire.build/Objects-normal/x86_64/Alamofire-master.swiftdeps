@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "94c44c82dc973727671c5f6a711c857a"
+build_time: [535449968, 136942000]
+inputs:
+  "/Users/zhangjianyun/Documents/swiftCode/Pods/Alamofire/Source/AFError.swift": [535449830, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Pods/Alamofire/Source/Alamofire.swift": [535449830, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [535449830, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Pods/Alamofire/Source/MultipartFormData.swift": [535449830, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [535449830, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Pods/Alamofire/Source/Notifications.swift": [535449830, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Pods/Alamofire/Source/ParameterEncoding.swift": [535449830, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Pods/Alamofire/Source/Request.swift": [535449830, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Pods/Alamofire/Source/Response.swift": [535449830, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Pods/Alamofire/Source/ResponseSerialization.swift": [535449830, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Pods/Alamofire/Source/Result.swift": [535449830, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Pods/Alamofire/Source/ServerTrustPolicy.swift": [535449830, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Pods/Alamofire/Source/SessionDelegate.swift": [535449830, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Pods/Alamofire/Source/SessionManager.swift": [535449830, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Pods/Alamofire/Source/TaskDelegate.swift": [535449830, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Pods/Alamofire/Source/Timeline.swift": [535449830, 0]
+  "/Users/zhangjianyun/Documents/swiftCode/Pods/Alamofire/Source/Validation.swift": [535449830, 0]

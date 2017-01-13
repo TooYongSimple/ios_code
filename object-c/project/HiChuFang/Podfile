@@ -1,0 +1,9 @@
+platform :ios, '8.0'
+use_frameworks!
+
+target 'HiChuFang' do
+
+	pod 'Alamofire', '~> 3.4'
+	pod 'Kingfisher', '~> 2.4'
+
+end

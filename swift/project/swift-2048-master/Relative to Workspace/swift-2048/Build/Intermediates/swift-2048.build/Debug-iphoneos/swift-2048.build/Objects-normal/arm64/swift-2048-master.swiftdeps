@@ -1,0 +1,13 @@
+version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
+options: "40c20e0b74568a5805aa5af161c5f7f6"
+build_time: [525926553, 898421000]
+inputs:
+  "/Users/zhangjianyun/Documents/swift\u9879\u76EE\u5B9E\u4F8B/swift-2048-master/swift-2048/NumberTileGame.swift": [499023688, 0]
+  "/Users/zhangjianyun/Documents/swift\u9879\u76EE\u5B9E\u4F8B/swift-2048-master/swift-2048/Views/AccessoryViews.swift": [499023688, 0]
+  "/Users/zhangjianyun/Documents/swift\u9879\u76EE\u5B9E\u4F8B/swift-2048-master/swift-2048/Views/TileView.swift": [499023688, 0]
+  "/Users/zhangjianyun/Documents/swift\u9879\u76EE\u5B9E\u4F8B/swift-2048-master/swift-2048/ViewController.swift": [499023688, 0]
+  "/Users/zhangjianyun/Documents/swift\u9879\u76EE\u5B9E\u4F8B/swift-2048-master/swift-2048/AppearanceProvider.swift": [499023688, 0]
+  "/Users/zhangjianyun/Documents/swift\u9879\u76EE\u5B9E\u4F8B/swift-2048-master/swift-2048/AppDelegate.swift": [499023688, 0]
+  "/Users/zhangjianyun/Documents/swift\u9879\u76EE\u5B9E\u4F8B/swift-2048-master/swift-2048/Models/GameModel.swift": [499023688, 0]
+  "/Users/zhangjianyun/Documents/swift\u9879\u76EE\u5B9E\u4F8B/swift-2048-master/swift-2048/Models/AuxiliaryModels.swift": [499023688, 0]
+  "/Users/zhangjianyun/Documents/swift\u9879\u76EE\u5B9E\u4F8B/swift-2048-master/swift-2048/Views/GameboardView.swift": [499023688, 0]

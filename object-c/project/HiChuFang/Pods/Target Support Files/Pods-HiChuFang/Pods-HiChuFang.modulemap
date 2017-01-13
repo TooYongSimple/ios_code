@@ -1,0 +1,6 @@
+framework module Pods_HiChuFang {
+  umbrella header "Pods-HiChuFang-umbrella.h"
+
+  export *
+  module * { export * }
+}
