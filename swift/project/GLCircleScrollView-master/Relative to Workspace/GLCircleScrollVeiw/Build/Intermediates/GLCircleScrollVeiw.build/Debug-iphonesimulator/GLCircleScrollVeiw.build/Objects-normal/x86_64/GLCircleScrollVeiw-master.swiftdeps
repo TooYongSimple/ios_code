@@ -1,7 +1,0 @@
-version: "Apple Swift version 2.2 (swiftlang-703.0.18.8 clang-703.0.31)"
-options: "dd6c41124541200536beabeca6f3f05a"
-build_time: [526124152, 664808000]
-inputs:
-  "/Users/zhangjianyun/Downloads/GLCircleScrollView-master/GLCircleScrollVeiw/AppDelegate.swift": [507725284, 0]
-  "/Users/zhangjianyun/Downloads/GLCircleScrollView-master/GLCircleScrollVeiw/FirstVC.swift": [507725284, 0]
-  "/Users/zhangjianyun/Downloads/GLCircleScrollView-master/GLCircleScrollVeiw/CirCleView.swift": [507725284, 0]

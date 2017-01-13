@@ -1,6 +1,0 @@
-version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
-options: "8f994e4d95740ba7103628acd8768355"
-build_time: [535451035, 207833000]
-inputs:
-  "/Users/zhangjianyun/Documents/swiftCode/swiftCode/ViewController.swift": [535448234, 0]
-  "/Users/zhangjianyun/Documents/swiftCode/swiftCode/AppDelegate.swift": [535448234, 0]
